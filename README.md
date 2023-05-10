@@ -2,12 +2,15 @@
 
 <h3 align='center'>Aspiring Software Engineer</h3>
 
-I am a Senior pursuing a BS in Computer Science at UNLV.
-Currently interested in Fron-tend Development, but am willing to explore new things!
+<h4 align='center'>I am a Senior pursuing a BS in Computer Science at UNLV.<br>
+Currently interested in front-end development, but love to learn new things!</h4>
+
+<br>
 
 * 🚀  I'm currently working on [Carbon](http://github.com/CivBuilder/Carbon) as front-end developer.
 * ✉️  You can contact me at [miguelcbaniqued@gmail.com](mailto:miguelcbaniqued@gmail.com).
 
+<br>
 
 ### Skills
 <p align="left">
@@ -30,11 +33,15 @@ Currently interested in Fron-tend Development, but am willing to explore new thi
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp;
 </p>
 
+<br>
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/mcebaniqued" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;
-	<a href="https://www.linkedin.com/in/miguelbaniqued" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+	<a href="https://www.github.com/mcebaniqued" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;
+	<a href="https://www.linkedin.com/in/miguelbaniqued" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
+<br>
 
 ### Github Stats
 <a href="http://www.github.com/mcebaniqued"><img src="https://github-readme-stats.vercel.app/api?username=mcebaniqued&show_icons=true&hide=contribs&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" height="192px" alt="mcebaniqued's GitHub stats" /></a>
