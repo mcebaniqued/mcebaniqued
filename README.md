@@ -3,7 +3,7 @@
 <h3 align='center'>Aspiring Software Engineer</h3>
 
 <h4 align='center'>I am a Senior pursuing a BS in Computer Science at UNLV.<br>
-Currently interested in front-end development, but love to learn new things!</h4>
+I am interested in web/app development, but love to learn new things!</h4>
 
 <br>
 
