@@ -2,12 +2,12 @@
 
 <h3 align='center'>Aspiring Software Engineer</h3>
 
-<h4 align='center'>I am a Senior pursuing a BS in Computer Science at UNLV.<br>
-I am interested in web/app development, but love to learn new things!</h4>
+<h4 align='center'>I graduated with a BS in Computer Science at UNLV.<br>
+I am currently focused in web/app development, but would love to learn new things!</h4>
 
 <br>
 
-* 🚀  I'm currently working on [Carbon](http://github.com/CivBuilder/Carbon) as front-end developer.
+* 🚀  I'm currently working on a personal project as front-end developer.
 * ✉️  You can contact me at [miguelcbaniqued@gmail.com](mailto:miguelcbaniqued@gmail.com).
 
 <br>
