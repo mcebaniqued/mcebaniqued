@@ -1,6 +1,6 @@
 <h1 align='center'>Hi 👋 My name is Miguel</h1>
 
-<h3 align='center'>Aspiring Software Engineer</h3>
+<h3 align='center'>Software Engineer</h3>
 
 <h4 align='center'>I graduated with a BS in Computer Science at UNLV.<br>
 I am currently focused in web/app development, but would love to learn new things!</h4>
